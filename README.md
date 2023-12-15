@@ -2,7 +2,6 @@
 Hello World repository for Git tutorial
 This page just for learning gow work with git and github.
 12/13/2023
-we born to die.
 jamal jamalo.
 عاو عاو عاو عاو عاو عاو عاو عاو عاو عاو عاو
 .
